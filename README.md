@@ -1,10 +1,8 @@
 ## Hi there, I'm Faris👋
 
-## I am a Software Engineering Graduate from Universiti Malaysia Sabah
+## I am a Junior Software Engineer
 
-- 🔭 I’m currently actively looking for software engineering roles.
-
-- 🌱 I’m currently learning a lot of AWS, Next.js and Unity.
+- 🔭 I’m currently working as a Software Engineer in Malaysia.
 
 ## Tech Stack
 
