@@ -21,4 +21,4 @@ BSc Software Engineering grad (CGPA 3.54) who actually enjoys debugging at 11pm.
 ## 📬 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhd-faris-danish-antoni-89a2b81a0/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faris@enviromet.my)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:farisdanish.antoni@gmail.com)
