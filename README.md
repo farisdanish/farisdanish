@@ -5,7 +5,7 @@ Software Engineer based in Malaysia, currently building full-stack web apps Full
 I work mostly on the backend — wrangling PHP/Laravel and Python pipelines — but I'm comfortable
 end-to-end. 
 
-BSc Software Engineering grad (CGPA 3.54) who actually enjoys debugging at 11pm. Sometimes.
+Sometimes losing sleep over a missing semicolon.
 
 ## 🛠 Tech Stack
 
