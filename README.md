@@ -1,6 +1,6 @@
 # Hey, I'm Faris 👋
 
-Software Engineer based in Malaysia, currently building full-stack web apps Full-Time.
+Software Engineer based in Malaysia, currently building full-stack web apps as my 9-5.
 
 I work mostly on the backend — wrangling PHP/Laravel and Python pipelines — but I'm comfortable
 end-to-end. 
