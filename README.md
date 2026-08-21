@@ -4,7 +4,7 @@ Backend Software Engineer building Laravel data pipelines, background job system
 and multi-database applications. Recent work: PHP↔Python interop for CPU-heavy
 processing, cursor-based MongoDB streaming, and multi-queue async architectures.
 
-📍 Open to remote backend roles · Kota Kinabalu · Selangor, Malaysia
+📍 Open to remote backend roles · Kota Kinabalu
 
 ## 🛠 Tech Stack
 
