@@ -27,7 +27,12 @@ FaceNet generates 512-d embeddings stored in MySQL; a Flask API serves inference
 the door endpoint; a GPIO relay on Raspberry Pi handles the physical unlock signal.
 Originally my Final Year Project at UMS. [Live demo →](https://aria.farisantoni.com)
 
-**Project Kumaraja** *(in progress)* — A personal data engineering pipeline aggregating
+**[BasBuddy](https://github.com/farisdanish/basbuddy)** *(WIP)* — Mobile-friendly
+real-time bus tracker for Malaysian public transit, built on the data.gov.my GTFS/GTFS-RT
+feeds. React frontend + a single backend poller writing to Valkey, fronting a horizontally
+scalable stateless API layer.
+
+**Project Kumaraja** *(In  Planning)* — A personal data engineering pipeline aggregating
 and analyzing tech job listings for the Sabah region. Python scraper → raw PostgreSQL
 layer → dbt models (with data quality tests) → Laravel analytics dashboard.
 
