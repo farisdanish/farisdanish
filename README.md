@@ -45,4 +45,4 @@ More on my [portfolio →](https://farisantoni.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhd-faris-danish-antoni-89a2b81a0/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:farisdanish.antoni@gmail.com)
 
-![Visitors](https://komarev.com/ghpvc/?username=farisdanish&color=blue&style=for-the-badge&label=PROFILE+VIEWS)
+[![Profile views](https://hits.sh/github.com/farisdanish.svg?style=for-the-badge&label=PROFILE+VIEWS)](https://hits.sh/github.com/farisdanish/)
