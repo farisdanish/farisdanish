@@ -30,7 +30,7 @@ Originally my Final Year Project at UMS. [Live demo →](https://aria.farisanton
 **[BasBuddy](https://github.com/farisdanish/basbuddy)** *(WIP)* — Mobile-friendly
 real-time bus tracker for Malaysian public transit, built on the data.gov.my GTFS/GTFS-RT
 feeds. React frontend + a single backend poller writing to Valkey, fronting a horizontally
-scalable stateless API layer.
+scalable stateless API layer. [Live app →](https://basbuddy.farisantoni.com/)
 
 **[Resume Gen](https://github.com/farisdanish/resume-gen)** — Automated portfolio
 extraction and single-page, ATS-compliant A4 PDF resume generator with a headless CLI,
