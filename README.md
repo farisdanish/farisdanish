@@ -1,8 +1,4 @@
-# Hey, I'm Faris 👋
-
-Backend Software Engineer building Laravel data pipelines, background job systems,
-and multi-database applications. Recent work: PHP↔Python interop for CPU-heavy
-processing, cursor-based MongoDB streaming, and multi-queue async architectures.
+Hey, I code.
 
 ## 🛠 Tech Stack
 
