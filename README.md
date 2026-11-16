@@ -4,8 +4,6 @@ Backend Software Engineer building Laravel data pipelines, background job system
 and multi-database applications. Recent work: PHP↔Python interop for CPU-heavy
 processing, cursor-based MongoDB streaming, and multi-queue async architectures.
 
-📍 Open to remote backend roles or onsite in Kota Kinabalu
-
 ## 🛠 Tech Stack
 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
